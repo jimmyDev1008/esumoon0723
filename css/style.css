@@ -1,5 +1,5 @@
 /* =========================================================
-   Esumoon 易善美 — 純鈦茶器品牌官網（靜態重建版）
+   Esumoon 易善美 — 纯钛茶器品牌官网（静态重建版）
    Design system
    ========================================================= */
 
@@ -9,19 +9,19 @@
   --ink-soft:   #4a453d;
   --paper:      #fbf8f2;   /* 主背景 米白 */
   --cream:      #f3ede2;   /* 次背景 */
-  --line:       #e3daca;   /* 分隔線 */
-  --gold:       #b08d4f;   /* 金 主強調 */
+  --line:       #e3daca;   /* 分隔线 */
+  --gold:       #b08d4f;   /* 金 主强调 */
   --gold-deep:  #8f6f38;
   --gold-soft:  #d9c39a;
-  --charcoal:   #23201b;   /* 深色區塊 */
-  --teal:       #3c8f8a;   /* 鈦虹彩點綴 */
+  --charcoal:   #23201b;   /* 深色区块 */
+  --teal:       #3c8f8a;   /* 钛虹彩点缀 */
 
   --maxw: 1200px;
   --gutter: clamp(20px, 5vw, 64px);
   --radius: 3px;
 
-  --serif: "Noto Serif TC", "Songti TC", "STSong", serif;
-  --sans:  "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --serif: "Noto Serif SC", "Songti SC", "STSong", serif;
+  --sans:  "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
 
   --shadow: 0 18px 45px -20px rgba(35, 32, 27, .35);
 }
